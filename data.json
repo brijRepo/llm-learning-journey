@@ -1,0 +1,5 @@
+{
+  "name": "Claude",
+  "model": "Sonnet",
+  "token": 2000
+}
