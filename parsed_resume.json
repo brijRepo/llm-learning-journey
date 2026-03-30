@@ -1,0 +1,44 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@email.com",
+  "phone": "(555) 123-4567",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "Docker",
+    "AWS",
+    "PostgreSQL",
+    "React",
+    "Git",
+    "CI/CD"
+  ],
+  "experience": [
+    {
+      "company": "Tech Corp",
+      "role": "Senior Software Engineer",
+      "experience": "2020-Present",
+      "responsibilities": [
+        "Led development of microservices architecture serving 1M users",
+        "Reduced API latency by 40% through caching optimization",
+        "Mentored team of 5 junior engineers"
+      ]
+    },
+    {
+      "company": "StartupXYZ",
+      "role": "Software Engineer",
+      "experience": "2018-2020",
+      "responsibilities": [
+        "Built RESTful APIs using Python and Flask",
+        "Developed frontend dashboards with React",
+        "Managed PostgreSQL databases"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS Computer Science",
+      "institution": "State University",
+      "year": "2018"
+    }
+  ]
+}
