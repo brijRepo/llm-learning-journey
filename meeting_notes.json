@@ -1,0 +1,31 @@
+{
+  "meeting_title": "Q1 Planning - Product Team",
+  "date": "2025-01-15",
+  "attendees": [
+    "Sarah",
+    "Mike",
+    "Jenny"
+  ],
+  "key_points": [
+    "Focus on new dashboard feature",
+    "Estimate 3 weeks with 2 engineers to start by Feb 1st",
+    "Target launch is February 25th",
+    "Users reported mobile app is slow, for Q2 prioritization"
+  ],
+  "action_items": [
+    {
+      "task": "Write technical spec this week",
+      "owner": "Mike",
+      "deadline": "2025-01-18"
+    },
+    {
+      "task": "Designs ready by Friday, January 22nd, to be shared in Slack",
+      "owner": "Jenny",
+      "deadline": null
+    }
+  ],
+  "decisions_made": [
+    "Focus on dashboard now, delay mobile app prioritization"
+  ],
+  "next_meeting": "2025-01-23 at 2pm"
+}
