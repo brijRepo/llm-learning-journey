@@ -74,10 +74,12 @@ greenlet==0.4.16
 h11==0.16.0
 h5py==2.10.0
 HeapDict==1.0.1
+hf-xet==1.4.3
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
 httpcore==1.0.9
 httplib2==0.18.1
 httpx==0.28.1
+huggingface-hub==0.36.2
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
 imagesize==1.2.0
@@ -196,11 +198,13 @@ Rtree==0.9.4
 ruamel-yaml==0.15.87
 s3transfer==0.3.6
 sacremoses==0.0.44
+safetensors==0.5.3
 scikit-image==0.16.2
 scikit-learn @ file:///opt/concourse/worker/volumes/live/47a3ec7c-70dc-43c0-7317-def24a8afaf5/volume/scikit-learn_1592503037057/work
 scipy @ file:///opt/concourse/worker/volumes/live/7f5e51f8-abf3-4409-4c56-a4fb14cc9869/volume/scipy_1593104185999/work
 seaborn==0.10.1
 Send2Trash==1.5.0
+sentence-transformers==3.2.1
 sentencepiece==0.1.95
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
@@ -228,13 +232,15 @@ tblib==1.6.0
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tokenizers==0.20.3
 toml @ file:///tmp/build/80754af9/toml_1592853716807/work
 toolz==0.10.0
-torch==1.6.0
+torch==2.2.2
 torchvision==0.7.0
 tornado==4.5.3
 tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
 traitlets==4.3.3
+transformers==4.46.3
 typing-extensions==4.13.2
 ujson==1.35
 unicodecsv==0.14.1
